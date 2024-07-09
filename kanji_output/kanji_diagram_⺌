@@ -1,0 +1,13 @@
+// Kanji Diagram for ⺌
+digraph {
+	rankdir=TB size="12,12"
+	"⺌" [label="⺌" fillcolor="#FFFFFF" fontcolor=black fontsize=24 height=1 shape=circle style=filled width=1]
+	"光" [label="光" fillcolor="#99CCFF" fontcolor=black shape=circle style=filled]
+	"⺌" -> "光"
+	"尚" [label="尚" fillcolor="#99CCFF" fontcolor=black shape=circle style=filled]
+	"⺌" -> "尚"
+	"当" [label="当" fillcolor="#99CCFF" fontcolor=black shape=circle style=filled]
+	"⺌" -> "当"
+	"肖" [label="肖" fillcolor="#99CCFF" fontcolor=black shape=circle style=filled]
+	"⺌" -> "肖"
+}
